@@ -57,11 +57,11 @@ const Navbar = () => {
       href: "/education",
     },
 
-    {
+    /* {
       title: "Contact us",
       icon: <Mail className="h-full w-full " />,
       href: "/contact",
-    },
+    }, */
     /* {
       title: "More",
       icon: <MoreHorizontal className="h-full w-full " />,
